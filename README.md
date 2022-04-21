@@ -39,6 +39,10 @@ ___
         * 🏠    Cancun,Quintana Roo
         * Date: 
     * Some apps:
-        * [Near Educaion.](https://google.com "Near Education In Google Play Store")
+        * [Near Educaion.](https://play.google.com/store/apps/details?id=com.near.educationapp "Near Education In Google Play Store")
         *   Is educational app that helps us learn more about the smart contract platform.
         * Date: 26/01/2022 - 25/02/2022
+        * 
+        * Cartilla de vacunación familiar.
+        *   It helps us digitally manage our applied vaccines and also those of our relatives from your account.
+        * Date: 18/03/2022 - 12/04/2022
