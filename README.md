@@ -39,4 +39,6 @@ ___
         * 🏠    Cancun,Quintana Roo
         * Date: 
     * Some apps:
-    
+        * [Near Educaion.](https://google.com "Near Education In Google Play Store")
+        *   Is educational app that helps us learn more about the smart contract platform.
+        * Date: 26/01/2022 - 25/02/2022
