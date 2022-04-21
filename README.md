@@ -19,6 +19,8 @@ ___
 * ✔️  Git / Github.
 * ✔️  API consumption.
 * ✔️  Data persitence.
+    * 🔹    Familiary whit Sqlite.
+    * 🔹    SharedPreferences.
 * ✔️  IU Components.
 * ✔️  Glide.
 * ✔️  Retrofit.
@@ -27,3 +29,14 @@ ___
 * ✔️  Authentication
 * ✔️  Familiary whit Firebase push notifications.
 * ✔️  Lottie animations.
+
+___
+### Work Experience
+
+*  Diplus
+    *  Professional Practices
+        * I develop Android Applications for companies in countries shuch as the United States and Canada.
+        * 🏠    Cancun,Quintana Roo
+        * Date: 
+    * Some apps:
+    
