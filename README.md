@@ -26,4 +26,4 @@ ___
 ___
 ## Technical Skill
 
-[x] prueba
+[ x ] prueba
