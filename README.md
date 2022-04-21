@@ -1,14 +1,14 @@
-## Gonzalo Ballesteros Martínez
-### Android Developert
+### Gonzalo Ballesteros Martínez
+#### Android Developert
 
 ___
 
-## Personal Information
+### Personal Information
 🏠  Michoacán, Mexico.
 
 📧  gonzalo.ballesteros.mtz@gmail.com
 ___
-## Technical Skill
+### Technical Skill
 
 * ✔️  Native android development.
     * 🔹    Kotlin
