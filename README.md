@@ -31,18 +31,15 @@ ___
 * ✔️  Lottie animations.
 
 ___
-### Work Experience
+### Personal Projects
 
-*  Diplus
-    *  Professional Practices
-        * I develop Android Applications for companies in countries shuch as the United States and Canada.
-        * 🏠    Cancun,Quintana Roo
-        * Date: 
-    * Some apps:
-        * [Near Educaion.](https://play.google.com/store/apps/details?id=com.near.educationapp "Near Education In Google Play Store")
-        *   Is educational app that helps us learn more about the smart contract platform.
-        * Date: 26/01/2022 - 25/02/2022
-        * 
-        * Cartilla de vacunación familiar.
-        *   It helps us digitally manage our applied vaccines and also those of our relatives from your account.
-        * Date: 18/03/2022 - 12/04/2022
+
+* [Horario Escolar.](https://play.google.com/store/apps/details?id=com.elico.horarioescolar "Horario Escolar In Google Play Store")
+    *  Hep students to manage their school schedule ina very friendly way through a graphical view.
+    * Date: 03/02/2022 - 05/03/2022
+
+<br>
+
+* Cartilla de vacunación familiar.
+    *   It is a system desinged to help teachers keep track of their students, for example, grades, attendace, homework and moore.
+    * Date: In Process
