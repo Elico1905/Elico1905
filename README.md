@@ -1,7 +1,4 @@
-### Gonzalo Ballesteros Martínez
-#### Android Developert
-
-___
+# Android Developert - Gonzalo Ballesteros Martínez
 
 ### Personal Information
 🏠  Michoacán, Mexico.
