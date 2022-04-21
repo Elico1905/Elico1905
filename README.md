@@ -1,4 +1,4 @@
-# 📱 Android Developert 💻 - Gonzalo Ballesteros Martínez 🔋
+# 📱 Android Developert - Gonzalo Ballesteros Martínez
 
 ### Personal Information
 🏠  Michoacán, Mexico.
