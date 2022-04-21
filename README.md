@@ -1,19 +1,3 @@
-
-<!--
-**Elico1905/Elico1905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## Gonzalo Ballesteros Martínez
 ### Android Developert
 
@@ -26,4 +10,20 @@ ___
 ___
 ## Technical Skill
 
-* [x] prueba
+* ✔️  Native android development.
+    * 🔹    Kotlin
+    * 🔹    Java
+* ✔️  Experience publishing in the Google Play Store.
+* ✔️  Native android development.
+* ✔️  Firebase.
+* ✔️  Git / Github.
+* ✔️  API consumption.
+* ✔️  Data persitence.
+* ✔️  IU Components.
+* ✔️  Glide.
+* ✔️  Retrofit.
+* ✔️  Vollet.
+* ✔️  Picaso.
+* ✔️  Authentication
+* ✔️  Familiary whit Firebase push notifications.
+* ✔️  Lottie animations.
